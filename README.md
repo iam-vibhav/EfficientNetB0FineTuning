@@ -16,7 +16,7 @@ The [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) data
 📝 **Original Research Paper**:  
 Bossard, Lukas, Matthieu Guillaumin, and Luc Van Gool.  
 **"Food-101 – Mining Discriminative Components with Random Forests"**, ECCV 2014.  
-[Read it here](https://data.vision.ee.ethz.ch/cvl/publications/papers/food-101.pdf)
+[Read it here](https://link.springer.com/chapter/10.1007/978-3-319-10599-4_29)
 
 ---
 
